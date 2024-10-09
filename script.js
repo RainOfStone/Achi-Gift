@@ -1,1 +1,2 @@
-// use the color light pink for colors ig. not purple 
+const PassInput = document.createElement('input')
+const PassBtn = document.createElemnt('button')
