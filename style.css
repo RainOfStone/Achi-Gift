@@ -9,12 +9,12 @@ body {
     margin-top: -8px;
     margin-bottom: -8px;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
     background-color: rgb(204, 150, 158);
-    height: 729px;
-    width: 800px;
+    height: 2000px;
+    width: 1000px;
 }
 #cardText {
     display: flex;
@@ -26,4 +26,11 @@ body {
     border: 1px solid black;
     font-size: 36px;
     font-family: 'Roboto','sans-serif';
+}
+#cardItems {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 1200px;
+    width: 1000px;
 }
